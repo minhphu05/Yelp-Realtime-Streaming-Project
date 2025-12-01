@@ -4,5 +4,5 @@ venv
 .DS_Store
 __pycache__
 *.json
-.env
-.env.spark
+src/.env
+src/.env.spark
